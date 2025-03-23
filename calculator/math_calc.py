@@ -20,5 +20,5 @@ class calculator :
     
 calc = calculator()
 
-print(calc.multiply(6,3))
+ 
  
